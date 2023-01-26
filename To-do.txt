@@ -1,4 +1,4 @@
 # My to do list this week
 1. Figure out how github works
 2. Keep learning software development basis
-3. Coding 
+3. Get familiar with coding environment
